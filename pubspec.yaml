@@ -72,10 +72,6 @@ dependencies:
     git:
       url: https://github.com/bifrost-finance/polkawallet_plugin_bifrost.git
       ref: b5677954c17432ca6b32da4dd31929b0fa0c3171
-  polkawallet_plugin_edgeware:
-    git:
-      url: https://github.com/remzrn/polkawallet_plugin_edgeware.git
-      ref: 11be316dc77b721d41ed6774fbf8d444a5a8eaa9
   polkawallet_plugin_dbc:
     git:
       url: https://github.com/DeepBrainChain/PolkaWallet_Plugin_DBC
